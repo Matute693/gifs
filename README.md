@@ -17,3 +17,7 @@ Application based on a request to a public API where you can search for differen
 
 API URL
 https://developers.giphy.com/docs/api/endpoint/
+
+URL DEPLOY
+
+https://marvelous-yeot-160aa1.netlify.app
