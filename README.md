@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Application based on a request to a public API where you can search for different gifs
 
-#Important
+# Important
 Supported only desktop version
 
 API URL
