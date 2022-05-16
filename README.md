@@ -14,10 +14,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 # Information Project
 
 
-Application based on a request to a public API where you can search for different gifs
+Application based on a request to a public API where you can search for different gifs.
 
 # Important
-Supported only desktop version
+Supported only desktop version.
 
 API URL
 https://developers.giphy.com/docs/api/endpoint/
