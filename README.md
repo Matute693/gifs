@@ -24,4 +24,6 @@ https://developers.giphy.com/docs/api/endpoint/
 
 URL DEPLOY
 
+Only Desktop Version
+
 https://marvelous-yeot-160aa1.netlify.app
